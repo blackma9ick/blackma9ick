@@ -1,3 +1,3 @@
 <!-- markdownlint-disable no-trailing-punctuation -->
 
-# Bonjour !
+![logo](logo.png)
