@@ -1,3 +1,3 @@
 <!-- markdownlint-disable no-trailing-punctuation -->
 
-![logo](logo.png)
+![logo](logoxxxxxxxx.png)
